@@ -54,7 +54,7 @@ int main(){
 		result=game(me,computer);
 		// 1 ise ben kazandim
 		// 0 ise bilgisayar kazandi
-		// -1 ise berabere kaldı
+		// -1 ise berabere kaldi
 		
 		if(result == -1){
 			printf("\n\n\n\t\t\t Berabere kalindi:\n");
